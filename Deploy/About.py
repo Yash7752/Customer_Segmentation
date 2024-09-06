@@ -12,8 +12,8 @@ def info():
     st.write("""
     ## About the author
     
-    My name is **Marcos Matheus** and I have a degree in **computational physics** from Federal Fluminense University. I'm a developer
-    methodical, persistent and dedicated. Of the languages, frameworks and related I work with include:
+    My name is **Yash Sharma** and I have a degree in **Computer Engineering** from Thapar Institute of Engineering and Techonology.
+    I am focused on data science and machine learning, working on creating predictive models and analyzing data to find useful insights. I enjoy solving real-world problems with data-driven approaches and driving improvements through my work.
     
     """)
     
