@@ -1,4 +1,4 @@
-# Customer-Segmentation_End-to-end-Project :man_scientist: :hugs: :computer:
+# Customer-Segmentation_End-to-end-Project 
 
 ## About this project
 
@@ -6,10 +6,10 @@ The objective of this project is to segment customers using a clustering predict
 
 ## Applications 
 
-The current project can be used to help companies and retailers find out which customers buy, what they buy, how they spend and the like. Through this project, companies can create advertisements or discounts for specific customers. Although this program is part of my personal portfolio, please feel free to use it for studies, repairs and improvements. :call_me_hand:
+The current project can be used to help companies and retailers find out which customers buy, what they buy, how they spend and the like. Through this project, companies can create advertisements or discounts for specific customers. Although this program is part of my personal portfolio, please feel free to use it for studies, repairs and improvements. 
 
 ## Motivation
-This project was developed to be part of my personal portfolio and served both to test my skills and for my learning, since countless technologies could be used in it. Despite being an end-to-end project, it still needs some future improvements, such as having a larger and more diverse dataset. :smiley:
+This project was developed to be part of my personal portfolio and served both to test my skills and for my learning, since countless technologies could be used in it. Despite being an end-to-end project, it still needs some future improvements, such as having a larger and more diverse dataset. 
 
 ## Functionalities
 
@@ -89,7 +89,7 @@ streamlit run main.py
 ```
 
 
-and see the application run on your machine. :open_mouth:
+and see the application run on your machine.
 
 
 ## Contributing
@@ -98,7 +98,6 @@ Criticism, doubts and suggestions feel free to send me:
 
 e-mail: yashsharma7752@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/yash-sharma1719/ :hugs:
 
 ## Author
 
